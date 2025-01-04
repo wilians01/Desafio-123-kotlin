@@ -1,4 +1,4 @@
-# desafio-logica-
+# desafio-logica
 Exercícios de lógica da programação em Java
 
 - [ ]  1 . Calcule a média de duas notas e mostre a média aritmética obtida.
