@@ -1,6 +1,6 @@
 # desafio-logica
 
-🚀Exercícios de lógica da programação em kotlin
+🚀Exercícios de lógica da programação em kotlin.
 
 - [x] 1 . Calcule a média de duas notas e mostre a média aritmética obtida.
 - [x] 2 . Leia o nome de uma pessoa, a sua idade e o seu salário, e mostre essas informações.
