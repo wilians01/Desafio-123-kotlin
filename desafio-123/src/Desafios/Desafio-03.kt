@@ -17,7 +17,7 @@ fun main() {
         if (numero2 != 0.0){
             println("A divisão dos dois numeros é:${numero1/numero2}")
         }else{
-            println("A divisão não é posssivl (divisãopor zero).")
+            println("A divisão não é posssivel (dividisão por zero).")
         }
     }else{
         println("Por favor, insira números validos! ")
