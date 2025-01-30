@@ -11,6 +11,6 @@ fun main() {
         val diasPassados = (mes - 1) * 30 + dia
         println("Dias passados desde o início do ano: $diasPassados")
     } else {
-        println("Entrada inválida. Certifique-se de inserir um dia entre 1 e 30 e um mês entre 1 e 12.")
+        println(" Entrada inválida. Certifique-se de inserir um dia entre 1 e 30 e um mês entre 1 e 12.")
     }
 }
